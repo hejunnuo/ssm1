@@ -10,5 +10,7 @@ public class Person {
 		System.out.println("2222");
 		System.out.println("23333");
 		
+		System.out.println("444444");
+		
 	}
 }
