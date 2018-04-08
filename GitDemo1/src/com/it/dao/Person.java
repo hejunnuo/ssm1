@@ -7,5 +7,7 @@ public class Person {
 		
 		System.err.println("dd");
 		
+		System.out.println("2222");
+		
 	}
 }
